@@ -1,11 +1,13 @@
-package bcu.changeme.expressiontree.test;
+package bcu.hubertdudowicz.expressiontree.test;
 
-import bcu.changeme.expressiontree.*;
+import bcu.hubertdudowicz.expressiontree.*;
 
+import bcu.hubertdudowicz.expressiontree.Expression;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 import java.util.Collections;
+import java.util.HashMap;
 import java.util.Map;
 
 public class EvaluationTest {
@@ -20,7 +22,7 @@ public class EvaluationTest {
 	public void testVariable() {
 		Expression expr = new Variable("x");
 		Map<String, Double> map = Collections.singletonMap("x", 3.0);
-		
+
 		assertEquals(3.0, expr.evaluate(map), 0.0);
 	}
 	

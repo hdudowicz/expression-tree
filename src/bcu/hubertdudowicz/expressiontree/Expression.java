@@ -1,4 +1,4 @@
-package bcu.changeme.expressiontree;
+package bcu.hubertdudowicz.expressiontree;
 
 import java.util.*;
 

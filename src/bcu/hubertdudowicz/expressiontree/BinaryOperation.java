@@ -32,4 +32,11 @@ abstract public class BinaryOperation extends Expression {
 		
 		return Collections.unmodifiableSet(variables);
 	}
+
+	abstract String getSymbol();
+
+	@Override
+	public String toString() {
+		return "(" + left + getSymbol() + right + ")";
+	}
 }

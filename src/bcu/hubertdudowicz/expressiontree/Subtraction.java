@@ -10,4 +10,9 @@ public class Subtraction extends BinaryOperation {
     public double evaluate(double a, double b) {
         return a - b;
     }
+
+    @Override
+    String getSymbol() {
+        return "-";
+    }
 }

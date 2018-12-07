@@ -1,7 +1,7 @@
 package bcu.hubertdudowicz.expressiontree;
 
 import java.util.*;
-
+//Pair programming with Hubert Dudowicz and Tilly Davies
 abstract public class BinaryOperation extends Expression {
 	private final Expression left;
 	private final Expression right;

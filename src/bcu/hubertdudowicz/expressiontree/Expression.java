@@ -1,7 +1,7 @@
 package bcu.hubertdudowicz.expressiontree;
 
 import java.util.*;
-
+//Pair programming with Hubert Dudowicz and Tilly Davies
 public abstract class Expression {
 	/*
 	 * Evaluates this expression, assuming it has no free variables.

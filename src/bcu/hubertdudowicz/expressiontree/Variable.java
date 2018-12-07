@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
-
+//Pair programming with Hubert Dudowicz and Tilly Davies
 public class Variable extends Expression {
     String name;
 

@@ -4,9 +4,13 @@
     <list default="true" id="6e76d9ea-bd01-4c04-a338-a500bed7e88d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Addition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/BinaryOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/BinaryOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Constant.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Division.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Expression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Expression.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Multiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/SquareRoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/SquareRoot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Subtraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Subtraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Variable.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,24 +30,24 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="18" />
+          <entry key="java" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="18" />
+          <entry key="JAVA" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="42" />
-          <entry key="java" value="508" />
+          <entry key="java" value="598" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="508" />
+          <entry key="JAVA" value="598" />
           <entry key="PLAIN_TEXT" value="42" />
         </counts>
       </usages-collector>
@@ -54,8 +58,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Constant.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+            <state relative-caret-position="120">
+              <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#185#186#0" expanded="true" />
@@ -74,20 +78,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Expression.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="60">
+              <caret line="3" column="56" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
               <folding>
+                <element signature="e#207#208#0" expanded="true" />
                 <element signature="e#253#254#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Variable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="55">
+              <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#183#184#0" expanded="true" />
@@ -102,8 +107,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/BinaryOperation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+            <state relative-caret-position="60">
+              <caret line="3" column="56" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
+              <folding>
+                <element signature="e#916#917#0" expanded="true" />
+                <element signature="e#946#947#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -111,8 +120,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Addition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            <state relative-caret-position="40">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="56" />
               <folding>
                 <element signature="e#148#149#0" expanded="true" />
                 <element signature="e#182#183#0" expanded="true" />
@@ -126,8 +135,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Division.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="20">
+              <caret line="1" column="56" selection-start-line="1" selection-start-column="56" selection-end-line="1" selection-end-column="56" />
               <folding>
                 <element signature="e#242#243#0" expanded="true" />
                 <element signature="e#270#271#0" expanded="true" />
@@ -141,8 +150,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Multiplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="20">
+              <caret line="1" column="56" selection-start-line="1" selection-start-column="56" selection-end-line="1" selection-end-column="56" />
               <folding>
                 <element signature="e#326#327#0" expanded="true" />
                 <element signature="e#353#354#0" expanded="true" />
@@ -151,11 +160,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/SquareRoot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Subtraction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="20">
+              <caret line="1" column="56" selection-start-line="1" selection-start-column="56" selection-end-line="1" selection-end-column="56" />
               <folding>
                 <element signature="e#320#321#0" expanded="true" />
                 <element signature="e#347#348#0" expanded="true" />
@@ -185,16 +210,16 @@
         <option value="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Divide.java" />
         <option value="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/test/FreeVariablesTest.java" />
         <option value="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/test/TreeTest.java" />
-        <option value="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Constant.java" />
-        <option value="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Variable.java" />
         <option value="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/test/EvaluationTest.java" />
-        <option value="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Expression.java" />
-        <option value="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/SquareRoot.java" />
-        <option value="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/BinaryOperation.java" />
         <option value="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Addition.java" />
+        <option value="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/BinaryOperation.java" />
+        <option value="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Constant.java" />
         <option value="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Division.java" />
+        <option value="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Expression.java" />
         <option value="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Multiplication.java" />
+        <option value="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/SquareRoot.java" />
         <option value="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Subtraction.java" />
+        <option value="$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Variable.java" />
       </list>
     </option>
   </component>
@@ -253,7 +278,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544193276546" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544193339061" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -344,20 +369,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544187946874</updated>
-      <workItem from="1544187950851" duration="5203000" />
+      <workItem from="1544187950851" duration="5512000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EvaluationTest - 2018.12.07 at 13h 58m 08s.xml">
-      <configuration name="EvaluationTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EvaluationTest - 2018.12.07 at 13h 58m 24s.xml">
-      <configuration name="EvaluationTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TreeTest - 2018.12.07 at 13h 58m 39s.xml">
-      <configuration name="TreeTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TreeTest - 2018.12.07 at 14h 03m 30s.xml">
       <configuration name="TreeTest" configurationId="JUnit" />
     </history-entry>
@@ -379,9 +395,18 @@
     <history-entry file="TreeTest - 2018.12.07 at 14h 22m 11s.xml">
       <configuration name="TreeTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="EvaluationTest - 2018.12.07 at 14h 34m 29s.xml">
+      <configuration name="EvaluationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FreeVariablesTest - 2018.12.07 at 14h 34m 33s.xml">
+      <configuration name="FreeVariablesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TreeTest - 2018.12.07 at 14h 34m 37s.xml">
+      <configuration name="TreeTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5203000" />
+    <option name="totallyTimeSpent" value="5512000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
@@ -401,7 +426,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32969433" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32969433" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3995633" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -475,24 +500,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Constant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/test/EvaluationTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -520,59 +527,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Expression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#253#254#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Variable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
-            <element signature="e#753#754#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/SquareRoot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/BinaryOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Addition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="56" />
           <folding>
             <element signature="e#148#149#0" expanded="true" />
             <element signature="e#182#183#0" expanded="true" />
@@ -582,10 +540,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/BinaryOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="56" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
+          <folding>
+            <element signature="e#916#917#0" expanded="true" />
+            <element signature="e#946#947#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Division.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        <state relative-caret-position="20">
+          <caret line="1" column="56" selection-start-line="1" selection-start-column="56" selection-end-line="1" selection-end-column="56" />
           <folding>
             <element signature="e#242#243#0" expanded="true" />
             <element signature="e#270#271#0" expanded="true" />
@@ -595,10 +582,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Expression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="56" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
+          <folding>
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Multiplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        <state relative-caret-position="20">
+          <caret line="1" column="56" selection-start-line="1" selection-start-column="56" selection-end-line="1" selection-end-column="56" />
           <folding>
             <element signature="e#326#327#0" expanded="true" />
             <element signature="e#353#354#0" expanded="true" />
@@ -606,13 +604,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/SquareRoot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Subtraction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        <state relative-caret-position="20">
+          <caret line="1" column="56" selection-start-line="1" selection-start-column="56" selection-end-line="1" selection-end-column="56" />
           <folding>
             <element signature="e#320#321#0" expanded="true" />
             <element signature="e#347#348#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bcu/hubertdudowicz/expressiontree/Variable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
           </folding>
         </state>
       </provider>

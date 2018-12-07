@@ -1,13 +1,12 @@
-package bcu.hubertdudowicz.expressiontree.test;
+package bcu.HubertDAndTillyD.expressiontree.test;
 
-import bcu.hubertdudowicz.expressiontree.*;
+import bcu.HubertDAndTillyD.expressiontree.*;
 
-import bcu.hubertdudowicz.expressiontree.Expression;
+import bcu.HubertDAndTillyD.expressiontree.Expression;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 import java.util.Collections;
-import java.util.HashMap;
 import java.util.Map;
 
 public class EvaluationTest {

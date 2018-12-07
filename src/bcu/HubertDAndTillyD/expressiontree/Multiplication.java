@@ -1,4 +1,4 @@
-package bcu.hubertdudowicz.expressiontree;
+package bcu.HubertDAndTillyD.expressiontree;
 //Pair programming with Hubert Dudowicz and Tilly Davies
 public class Multiplication extends BinaryOperation {
 

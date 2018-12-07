@@ -1,4 +1,4 @@
-package bcu.hubertdudowicz.expressiontree;
+package bcu.HubertDAndTillyD.expressiontree;
 
 import java.util.Collections;
 import java.util.HashSet;

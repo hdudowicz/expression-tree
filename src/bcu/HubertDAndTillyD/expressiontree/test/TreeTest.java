@@ -1,8 +1,8 @@
-package bcu.hubertdudowicz.expressiontree.test;
+package bcu.HubertDAndTillyD.expressiontree.test;
 
-import bcu.hubertdudowicz.expressiontree.*;
+import bcu.HubertDAndTillyD.expressiontree.*;
 
-import bcu.hubertdudowicz.expressiontree.Expression;
+
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 

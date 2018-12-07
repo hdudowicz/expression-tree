@@ -1,18 +1,19 @@
-package bcu.hubertdudowicz.expressiontree;
-//Pair programming with Hubert Dudowicz and Tilly Davies
-public class Division extends BinaryOperation {
+package bcu.HubertDAndTillyD.expressiontree;
 
-    public Division(Expression left, Expression right) {
+//Pair programming with Hubert Dudowicz and Tilly Davies
+public class Addition extends BinaryOperation {
+
+    public Addition(Expression left, Expression right) {
         super(left, right);
     }
 
     @Override
     public double evaluate(double a, double b) {
-        return a / b;
+        return a + b;
     }
 
     @Override
     String getSymbol() {
-        return "/";
+        return "+";
     }
 }
